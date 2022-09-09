@@ -10,10 +10,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
+- [Vueでアクセス制限をかけるコンポーネントを実装](https://zenn.dev/koojy/articles/vue-access-control)
+- [CSSスタイルガイド作ってる？手軽に導入するならfractalがおすすめ](https://zenn.dev/koojy/articles/fractal-advantage)
+- [マークダウンをJSON化してNuxt.jsで表示するためのライブラリ](https://zenn.dev/koojy/articles/markdown-blog-library)
 - [BEMでCSS設計する人のためのわかりやすいコーディングサンプル](https://zenn.dev/koojy/articles/bem-css-cording)
-- [Gatsby.jsでビルド時にlocalStorageのエラーにはuseEffectを使う](https://zenn.dev/koojy/articles/gatsby-localstorage-error)
-- [BEMのBlockの単位はどうする？どんなサイトにも使える判断基準](https://zenn.dev/koojy/articles/bem-block-unit)
-- [CSS ModulesをStorybookで適用するために必要なwebpackの設定](https://zenn.dev/koojy/articles/css-modules-storybook)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
