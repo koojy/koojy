@@ -10,10 +10,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [BEMでCSS設計する人のためのわかりやすいコーディングサンプル](https://zenn.dev/koojy/articles/bem-css-cording)
-- [Gatsby.jsでビルド時にlocalStorageのエラーにはuseEffectを使う](https://zenn.dev/koojy/articles/gatsby-localstorage-error)
-- [BEMのBlockの単位はどうする？どんなサイトにも使える判断基準](https://zenn.dev/koojy/articles/bem-block-unit)
 - [CSS ModulesをStorybookで適用するために必要なwebpackの設定](https://zenn.dev/koojy/articles/css-modules-storybook)
+- [ExpressのGraphQLで相互のRelation関係にあるTypeをimportする方法](https://zenn.dev/koojy/articles/graphql-relation-mutual)
+- [Riot.jsで共通のSCSSファイルを読み込む方法](https://zenn.dev/koojy/articles/riotjs-sass-global-compile)
+- [Next.jsでGraphQLサーバーを実装する方法](https://zenn.dev/koojy/articles/nextjs-graphql-server)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
