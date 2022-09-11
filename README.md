@@ -10,10 +10,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [マークダウンをJSON化してNuxt.jsで表示するためのライブラリ](https://zenn.dev/koojy/articles/markdown-blog-library)
-- [Riot.jsで共通のSCSSファイルを読み込む方法](https://zenn.dev/koojy/articles/riotjs-sass-global-compile)
-- [CSS ModulesをStorybookで適用するために必要なwebpackの設定](https://zenn.dev/koojy/articles/css-modules-storybook)
-- [Nuxt.jsのマークダウンでショートコードを使う方法](https://zenn.dev/koojy/articles/nuxt-markdown-shortcode)
+- [JavaScriptで半角を0.5、全角を1で文字数を計算する方法](https://zenn.dev/koojy/articles/javascript-2byte-length)
+- [BEMのBlockの単位はどうする？どんなサイトにも使える判断基準](https://zenn.dev/koojy/articles/bem-block-unit)
+- [Gatsbyでブログやメディアを作る時に使いたいプラグイン](https://zenn.dev/koojy/articles/gatsby-starter-plugins)
+- [エンジニアがマークダウンでブログを書くならVisual Studio Code](https://zenn.dev/koojy/articles/vscode-markdown-editor)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
