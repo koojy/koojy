@@ -10,10 +10,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [Nuxt.jsのマークダウンでショートコードを使う方法](https://zenn.dev/koojy/articles/nuxt-markdown-shortcode)
-- [ExpressのGraphQLで相互のRelation関係にあるTypeをimportする方法](https://zenn.dev/koojy/articles/graphql-relation-mutual)
-- [Riot.jsで共通のSCSSファイルを読み込む方法](https://zenn.dev/koojy/articles/riotjs-sass-global-compile)
-- [Nuxt.jsでvuexとlocalStorageをあわせて使う方法](https://zenn.dev/koojy/articles/nuxt-localstorage)
+- [Gatsby.jsでビルド時にlocalStorageのエラーにはuseEffectを使う](https://zenn.dev/koojy/articles/gatsby-localstorage-error)
+- [CSSスタイルガイド作ってる？手軽に導入するならfractalがおすすめ](https://zenn.dev/koojy/articles/fractal-advantage)
+- [BEMでCSS設計する人のためのわかりやすいコーディングサンプル](https://zenn.dev/koojy/articles/bem-css-cording)
+- [Vueで開発するときのプラクティス!メンテナンス性の高いコードを書こう](https://zenn.dev/koojy/articles/vue-practice)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
