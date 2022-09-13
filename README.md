@@ -11,9 +11,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [Vueでアクセス制限をかけるコンポーネントを実装](https://zenn.dev/koojy/articles/vue-access-control)
-- [Riot.jsでbrowserifyとTypeScriptが使いたい！上手くやる方法は？](https://zenn.dev/koojy/articles/riotjs-browserify-typescript)
-- [BEMでCSS設計する人のためのわかりやすいコーディングサンプル](https://zenn.dev/koojy/articles/bem-css-cording)
+- [Nuxt.jsでvuexとlocalStorageをあわせて使う方法](https://zenn.dev/koojy/articles/nuxt-localstorage)
+- [CSS ModulesをStorybookで適用するために必要なwebpackの設定](https://zenn.dev/koojy/articles/css-modules-storybook)
+- [CSSスタイルガイド作ってる？手軽に導入するならfractalがおすすめ](https://zenn.dev/koojy/articles/fractal-advantage)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
