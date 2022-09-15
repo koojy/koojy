@@ -11,9 +11,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
+- [Next.jsでGraphQLサーバーを実装する方法](https://zenn.dev/koojy/articles/nextjs-graphql-server)
+- [BEMのBlockの単位はどうする？どんなサイトにも使える判断基準](https://zenn.dev/koojy/articles/bem-block-unit)
 - [Vueで開発するときのプラクティス!メンテナンス性の高いコードを書こう](https://zenn.dev/koojy/articles/vue-practice)
-- [Gatsbyでwebpackのaliasを設定する方法](https://zenn.dev/koojy/articles/gatsby-webpack-alias)
-- [Gatsby.jsでビルド時にlocalStorageのエラーにはuseEffectを使う](https://zenn.dev/koojy/articles/gatsby-localstorage-error)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
