@@ -11,9 +11,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [Vueで文字数制限するdirectiveを実装する方法と注意点](https://zenn.dev/koojy/articles/vue-maxlen-directive)
-- [Gatsby.jsでビルド時にlocalStorageのエラーにはuseEffectを使う](https://zenn.dev/koojy/articles/gatsby-localstorage-error)
-- [BEMのBlockの単位はどうする？どんなサイトにも使える判断基準](https://zenn.dev/koojy/articles/bem-block-unit)
+- [Storybookのモックデータの作成と管理をRosieを使って効率化する](https://zenn.dev/koojy/articles/storybook-data-rosie)
+- [エンジニアがマークダウンでブログを書くならVisual Studio Code](https://zenn.dev/koojy/articles/vscode-markdown-editor)
+- [CSSスタイルガイド作ってる？手軽に導入するならfractalがおすすめ](https://zenn.dev/koojy/articles/fractal-advantage)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
