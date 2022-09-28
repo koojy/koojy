@@ -11,8 +11,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [Vueで開発するときのプラクティス!メンテナンス性の高いコードを書こう](https://zenn.dev/koojy/articles/vue-practice)
-- [Nuxt.jsのマークダウンでショートコードを使う方法](https://zenn.dev/koojy/articles/nuxt-markdown-shortcode)
+- [Nuxt.jsで特定ファイルを生成リストから取り除く方法](https://zenn.dev/koojy/articles/nuxt-generate-ignore)
+- [BEMのBlockの単位はどうする？どんなサイトにも使える判断基準](https://zenn.dev/koojy/articles/bem-block-unit)
 - [エンジニアがマークダウンでブログを書くならVisual Studio Code](https://zenn.dev/koojy/articles/vscode-markdown-editor)
 <!-- BLOG-POST-LIST:END -->
 
