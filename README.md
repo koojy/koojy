@@ -11,9 +11,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [Vue.jsでページ上下のマージンをあてるコンポーネントを用意しよう！](https://zenn.dev/koojy/articles/vue-page-margin-component)
-- [エンジニアがマークダウンでブログを書くならVisual Studio Code](https://zenn.dev/koojy/articles/vscode-markdown-editor)
-- [Gatsbyでwebpackのaliasを設定する方法](https://zenn.dev/koojy/articles/gatsby-webpack-alias)
+- [NuxtとVueの違いは？実装して感じたNuxt.jsのメリット](https://zenn.dev/koojy/articles/nuxtjs-start)
+- [Nuxt.jsのマークダウンでショートコードを使う方法](https://zenn.dev/koojy/articles/nuxt-markdown-shortcode)
+- [CSS ModulesをStorybookで適用するために必要なwebpackの設定](https://zenn.dev/koojy/articles/css-modules-storybook)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
