@@ -12,8 +12,8 @@
 - [React Hook Form + zodで数値型のselectの空文字対応](https://zenn.dev/koojy/articles/reacthookform-select-number)
 - [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [Next.jsでGraphQLサーバーを実装する方法](https://zenn.dev/koojy/articles/nextjs-graphql-server)
-- [ExpressのGraphQLで相互のRelation関係にあるTypeをimportする方法](https://zenn.dev/koojy/articles/graphql-relation-mutual)
+- [Gatsby.jsでビルド時にlocalStorageのエラーにはuseEffectを使う](https://zenn.dev/koojy/articles/gatsby-localstorage-error)
+- [Nuxt.jsで特定ファイルを生成リストから取り除く方法](https://zenn.dev/koojy/articles/nuxt-generate-ignore)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
