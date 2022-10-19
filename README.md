@@ -13,7 +13,7 @@
 - [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
 - [Storybookのモックデータの作成と管理をRosieを使って効率化する](https://zenn.dev/koojy/articles/storybook-data-rosie)
-- [Vueで共通のSCSS&lpar;SASS&rpar;をwebpack&lpar;3系と4系&rpar;で読み込む方法](https://zenn.dev/koojy/articles/vue-sass-global)
+- [Nuxt.jsのマークダウンでショートコードを使う方法](https://zenn.dev/koojy/articles/nuxt-markdown-shortcode)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
