@@ -12,8 +12,8 @@
 - [React Hook Form + zodで数値型のselectの空文字対応](https://zenn.dev/koojy/articles/reacthookform-select-number)
 - [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [CSSスタイルガイド作ってる？手軽に導入するならfractalがおすすめ](https://zenn.dev/koojy/articles/fractal-advantage)
-- [CSS ModulesをStorybookで適用するために必要なwebpackの設定](https://zenn.dev/koojy/articles/css-modules-storybook)
+- [Storybookのモックデータの作成と管理をRosieを使って効率化する](https://zenn.dev/koojy/articles/storybook-data-rosie)
+- [Vueで共通のSCSS&lpar;SASS&rpar;をwebpack&lpar;3系と4系&rpar;で読み込む方法](https://zenn.dev/koojy/articles/vue-sass-global)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
