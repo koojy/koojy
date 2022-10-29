@@ -13,7 +13,7 @@
 - [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
 - [CSS ModulesをStorybookで適用するために必要なwebpackの設定](https://zenn.dev/koojy/articles/css-modules-storybook)
-- [Vueで開発するときのプラクティス!メンテナンス性の高いコードを書こう](https://zenn.dev/koojy/articles/vue-practice)
+- [Next.jsでGraphQLサーバーを実装する方法](https://zenn.dev/koojy/articles/nextjs-graphql-server)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
