@@ -12,7 +12,7 @@
 - [React Hook Form + zodで数値型のselectの空文字対応](https://zenn.dev/koojy/articles/reacthookform-select-number)
 - [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [Gatsbyでブログやメディアを作る時に使いたいプラグイン](https://zenn.dev/koojy/articles/gatsby-starter-plugins)
+- [Gatsbyでwebpackのaliasを設定する方法](https://zenn.dev/koojy/articles/gatsby-webpack-alias)
 - [Nuxt.jsのマークダウンでショートコードを使う方法](https://zenn.dev/koojy/articles/nuxt-markdown-shortcode)
 <!-- BLOG-POST-LIST:END -->
 
