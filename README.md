@@ -12,8 +12,8 @@
 - [React Hook Form + zodで数値型のselectの空文字対応](https://zenn.dev/koojy/articles/reacthookform-select-number)
 - [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [Gatsby.jsでビルド時にlocalStorageのエラーにはuseEffectを使う](https://zenn.dev/koojy/articles/gatsby-localstorage-error)
-- [Nuxt.jsでvuexとlocalStorageをあわせて使う方法](https://zenn.dev/koojy/articles/nuxt-localstorage)
+- [JavaScriptで半角を0.5、全角を1で文字数を計算する方法](https://zenn.dev/koojy/articles/javascript-2byte-length)
+- [Riot.jsで共通のSCSSファイルを読み込む方法](https://zenn.dev/koojy/articles/riotjs-sass-global-compile)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
