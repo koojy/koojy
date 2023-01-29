@@ -12,8 +12,8 @@
 - [React Hook Form + zodで数値型のselectの空文字対応](https://zenn.dev/koojy/articles/reacthookform-select-number)
 - [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [Vueで文字数制限するdirectiveを実装する方法と注意点](https://zenn.dev/koojy/articles/vue-maxlen-directive)
-- [マークダウンをJSON化してNuxt.jsで表示するためのライブラリ](https://zenn.dev/koojy/articles/markdown-blog-library)
+- [Vue.jsでページ上下のマージンをあてるコンポーネントを用意しよう！](https://zenn.dev/koojy/articles/vue-page-margin-component)
+- [Riot.jsでbrowserifyとTypeScriptが使いたい！上手くやる方法は？](https://zenn.dev/koojy/articles/riotjs-browserify-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
