@@ -12,8 +12,8 @@
 - [React Hook Form + zodで数値型のselectの空文字対応](https://zenn.dev/koojy/articles/reacthookform-select-number)
 - [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [Gatsbyでwebpackのaliasを設定する方法](https://zenn.dev/koojy/articles/gatsby-webpack-alias)
-- [Vueで開発するときのプラクティス!メンテナンス性の高いコードを書こう](https://zenn.dev/koojy/articles/vue-practice)
+- [Vueで共通のSCSS&lpar;SASS&rpar;をwebpack&lpar;3系と4系&rpar;で読み込む方法](https://zenn.dev/koojy/articles/vue-sass-global)
+- [Riot.jsで共通のSCSSファイルを読み込む方法](https://zenn.dev/koojy/articles/riotjs-sass-global-compile)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
