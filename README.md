@@ -12,8 +12,8 @@
 - [React Hook Form + zodで数値型のselectの空文字対応](https://zenn.dev/koojy/articles/reacthookform-select-number)
 - [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [Riot.jsでbrowserifyとTypeScriptが使いたい！上手くやる方法は？](https://zenn.dev/koojy/articles/riotjs-browserify-typescript)
-- [BEMのBlockの単位はどうする？どんなサイトにも使える判断基準](https://zenn.dev/koojy/articles/bem-block-unit)
+- [Vue.jsでページ上下のマージンをあてるコンポーネントを用意しよう！](https://zenn.dev/koojy/articles/vue-page-margin-component)
+- [Vueで共通のSCSS&lpar;SASS&rpar;をwebpack&lpar;3系と4系&rpar;で読み込む方法](https://zenn.dev/koojy/articles/vue-sass-global)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
