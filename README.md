@@ -13,7 +13,7 @@
 - [React Hook Form + zodで数値型のselectの空文字対応](https://zenn.dev/koojy/articles/reacthookform-select-number)
 - [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
 - [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [BEMのBlockの単位はどうする？どんなサイトにも使える判断基準](https://zenn.dev/koojy/articles/bem-block-unit)
+- [ExpressのGraphQLで相互のRelation関係にあるTypeをimportする方法](https://zenn.dev/koojy/articles/graphql-relation-mutual)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
