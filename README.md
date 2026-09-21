@@ -1,12 +1,55 @@
-# Hi 👋, I'm koojy
+I'm a software engineer with a frontend background,
+building web applications since 2009.
 
-### Connect with me:
+My work spans frontend and backend development — from UI and CSS
+architecture to APIs, databases, and application design.
+I run CodeConnect, my own software company.
 
-<a href="https://twitter.com/koojy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koojy3" height="30" width="40" /></a>
+## Background
 
-### Languages and Tools:
+I've worked through several generations of frontend development,
+from jQuery and early JavaScript frameworks to modern React and Vue
+applications.
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+That experience includes CSS architecture, component design,
+and build tooling, alongside expanding into backend development
+with Node.js, Ruby, PHP, and Go.
+
+I've applied Domain-Driven Design and Clean Architecture in
+professional projects. I focus on clear responsibilities and code
+that stays easy to understand, maintain, and change, choosing
+an architecture that fits the application.
+
+## Technical experience
+
+Technologies and approaches I've worked with over the years:
+
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Ruby, PHP, Go
+- **CSS architecture:** BEM, SMACSS, ECSS, FLOCSS
+- **Frontend:** jQuery, Backbone.js, Knockout.js, Chaplin.js,
+  AngularJS, Vue.js, React
+- **Application frameworks:** Nuxt, Next.js, React Router
+- **Backend:** Node.js, Express, NestJS
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **Build tooling:** Grunt, Gulp, Vite — currently using Vite
+- **Deployment and environments:** Vercel, Netlify, Cloudflare,
+  AWS, VPS hosting, Ansible, Itamae
+
+I also handle application deployment and basic environment setup,
+primarily using managed platforms and services.
+
+## Products
+
+- [IKURL](https://ikurl.jp/) — Share upcoming events and keep
+  a history of the ones you've attended, all in one profile.
+- [Flowbed](https://flowbed.app/) — Shared boards where people
+  and AI agents can post and work together.
+
+## Writing
+
+I write in Japanese about software design, testing,
+and the engineering decisions behind building and maintaining
+web applications, including AI-assisted development.
 
 <!-- BLOG-POST-LIST:START -->
 - [Storybook7系をReact + Vite + TypeScriptの構成で動かすのに出たエラーの解消](https://zenn.dev/koojy/articles/storybook7-react-vite-typescript)
@@ -16,4 +59,4 @@
 - [Vueで文字数制限するdirectiveを実装する方法と注意点](https://zenn.dev/koojy/articles/vue-maxlen-directive)
 <!-- BLOG-POST-LIST:END -->
 
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koojy&show_icons=true&locale=en&layout=compact"/>
+[Zenn](https://zenn.dev/koojy) · [X](https://x.com/koojy3)
