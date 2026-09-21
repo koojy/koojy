@@ -51,12 +51,4 @@ I write in Japanese about software design, testing,
 and the engineering decisions behind building and maintaining
 web applications, including AI-assisted development.
 
-<!-- BLOG-POST-LIST:START -->
-- [Storybook7系をReact + Vite + TypeScriptの構成で動かすのに出たエラーの解消](https://zenn.dev/koojy/articles/storybook7-react-vite-typescript)
-- [React Hook Form + zodで数値型のselectの空文字対応](https://zenn.dev/koojy/articles/reacthookform-select-number)
-- [Next.jsの静的サイトをNetlifyでデプロイする時にexportコマンドを有効にする](https://zenn.dev/koojy/articles/next-netlify-skip-build)
-- [Zodで空白文字をのみバリデーションで弾く方法](https://zenn.dev/koojy/articles/zod-space-validate)
-- [Vueで文字数制限するdirectiveを実装する方法と注意点](https://zenn.dev/koojy/articles/vue-maxlen-directive)
-<!-- BLOG-POST-LIST:END -->
-
 [Zenn](https://zenn.dev/koojy) · [X](https://x.com/koojy3)
