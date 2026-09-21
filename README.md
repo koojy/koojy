@@ -50,5 +50,3 @@ primarily using managed platforms and services.
 I write in Japanese about software design, testing,
 and the engineering decisions behind building and maintaining
 web applications, including AI-assisted development.
-
-[Zenn](https://zenn.dev/koojy) · [X](https://x.com/koojy3)
